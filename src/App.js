@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import Android from './components/Projects/ProjetoAndroid/Android';
 
 function App() {
